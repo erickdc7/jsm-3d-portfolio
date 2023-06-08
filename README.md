@@ -1,4 +1,4 @@
-# React Portfolio 05
+# Portfolio 3D Website Using React
 This design is inspired by this [video](https://youtu.be/0fYi8SGA20k), which belongs to [JavaScript Mastery](https://www.youtube.com/@javascriptmastery).
 
 ## Technologies
